@@ -18,18 +18,18 @@ export default function Projects() {
       description: "A computer vision project that detects whether a person is wearing a face mask.",
       image: "/projects/face.png",
       tags: ["OpenCV", "Python", "ML"],
-      github: "https://github.com",
-      demo: "https://example.com",
+      github: "https://github.com/Sarika861/Face-Mask-Detection",
+      demo: "https://face-mask-detection-yfxb.onrender.com",
     },
     {
       title: "Virtual Keyboard",
       description: "An on-screen keyboard experience built for touch and accessibility-friendly input.",
-      image: "/projects/ecom.png",
+      image: "/projects/virtual.png",
       tags: ["JavaScript", "UI", "Web"],
-      github: "https://github.com",
-      demo: "https://example.com",
+      github: "https://github.com/Sarika861/Virtual-Keyboard",
+      demo: "https://virtual-keyboard-1-i0di.onrender.com",
     },
-   
+
     {
       title: "Skincare Recommendation System",
       description: "A personalized skincare assistant that recommends products based on skin needs.",
@@ -46,8 +46,8 @@ export default function Projects() {
       github: "https://github.com/Sarika861/Movie-Ticket-Booking",
       demo: "https://movie-ticket-booking-wygp.onrender.com",
     },
-   
-  
+
+
     {
       title: "Chat History Analyzer",
       description: "An analysis app for exploring conversation patterns and extracting useful insights.",

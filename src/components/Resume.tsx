@@ -54,7 +54,7 @@ export default function Resume() {
                             </a>
 
                             <a
-                                href="/resume.pdf"
+                                href="/Final resume.pdf"
                                 download
                                 className="flex items-center gap-2 border border-purple-500 text-purple-400 hover:bg-purple-600 hover:text-white px-6 py-3 rounded-xl font-semibold transition duration-300 hover:scale-105"
                             >

@@ -178,7 +178,7 @@ export default function About() {
 
             <p className="text-zinc-400 text-lg leading-8 max-w-3xl mx-auto mt-8">
               Hi, I'm <span className="text-purple-400 font-semibold">Sarika</span>,
-              a Computer Science student passionate about Artificial Intelligence,
+              a B.Tech Computer Science Graduate passionate about Artificial Intelligence,
               Machine Learning, and Data Science. I enjoy transforming ideas into
               intelligent solutions through clean code, modern technologies, and
               continuous learning.

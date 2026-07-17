@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from "react";
 import { Menu, X, Code2 } from "lucide-react";
 
+
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
@@ -50,6 +51,9 @@ export default function Header() {
               {link.name}
             </a>
           ))}
+
+          
+
           <a
             href="#contact"
             className="bg-purple-600 hover:bg-purple-700 text-white text-sm font-medium px-5 py-2 rounded-full transition-colors"
@@ -76,11 +80,12 @@ export default function Header() {
               key={link.name}
               href={link.href}
               onClick={() => setIsOpen(false)}
-              className="text-zinc-400 hover:text-white text-lg font-medium py-2 border-b border-white/5 last:border-0"
+             className="text-zinc-400 hover:text-white text-lg font-medium py-2 border-b border-white/5 last:border-0"
             >
               {link.name}
             </a>
           ))}
+
           <a
             href="#contact"
             onClick={() => setIsOpen(false)}

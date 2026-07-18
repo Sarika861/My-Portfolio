@@ -44,7 +44,7 @@ export default function Resume() {
                         <div className="flex flex-wrap justify-center gap-5">
 
                             <a
-                                href="/Final resume.pdf"
+                                href="/Sarika_Resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="flex items-center gap-2 bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-xl font-semibold transition duration-300 hover:scale-105"
@@ -54,7 +54,7 @@ export default function Resume() {
                             </a>
 
                             <a
-                                href="/Final resume.pdf"
+                                href="/Sarika_Resume.pdf"
                                 download
                                 className="flex items-center gap-2 border border-purple-500 text-purple-400 hover:bg-purple-600 hover:text-white px-6 py-3 rounded-xl font-semibold transition duration-300 hover:scale-105"
                             >
